@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "357934950397",
+    "firebase_url": "https://socail-media-login.firebaseio.com",
+    "project_id": "socail-media-login",
+    "storage_bucket": "socail-media-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357934950397:android:68f2be2fb8c1d3ee34db94",
+        "android_client_info": {
+          "package_name": "com.abadereldin.socailmedailogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357934950397-3e0fad1nq657rj5346nt3clvo76v2n7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOEydR8-s4MepypjxwGeYtnuBVWaXfhh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357934950397-3e0fad1nq657rj5346nt3clvo76v2n7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

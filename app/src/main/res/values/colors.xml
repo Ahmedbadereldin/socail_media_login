@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="google_plus">#dc4e41</color>
+    <color name="you_tube">#fe0000</color>
+    <color name="facebook">#3b5998</color>
+    <color name="tumbler">#395976</color>
+    <color name="linkedin">#007ab9</color>
+    <color name="instagram">#6a453b</color>
+    <color name="telegram">#57abdb</color>
+    <color name="twitter">#35cfee</color>
+    <color name="whatsapp">#279f4e</color>
+
+</resources>
